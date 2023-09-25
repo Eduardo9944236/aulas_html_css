@@ -1,0 +1,29 @@
+background{
+    color:black;
+ }
+
+h1{
+    color:blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h2{
+    color:blueviolet;
+}
+
+p{
+    color:purple;
+}
+
+.titulos-grandes{
+    font-size: 50px
+}
+
+#titulo{
+    color:grey;
+}
+
+.blueviolet{
+    color: blueviolet;
+}
+
